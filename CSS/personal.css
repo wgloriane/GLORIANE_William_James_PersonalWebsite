@@ -3,8 +3,8 @@ div.whole {
 	background:;
 	top:0%;
 	left:0%;
-	width:100%;
 	height:100%;
+	width:100%;
 }
 
 div.header {
@@ -29,7 +29,7 @@ div.home {
 	font-family:"Century Gothic";
 }
 
-div.content	{
+div.contentHolder {
 	top:25%;
 	left:10%;
 	position:absolute;
@@ -37,9 +37,29 @@ div.content	{
 	border:0.5px;
 	border-color:black;
 	border-bottom-style:dotted;
+	height:120%;
 	width:80%;
-	height:100%;
 	box-shadow: 0px 0px 20px #888888;
+}
+
+div.cover {
+	position:absolute;
+	height:37.5%;
+	width:80%;
+	top:25%;
+	left:10%;
+	background:grey;
+	//border:solid 1px;
+	color:black;
+
+}
+
+div.content {
+	position:relative;
+	height:70%;
+	width:76%;
+	top:67%;
+	left:11%;
 }
 
 .hover:link {color:black;}
@@ -56,19 +76,15 @@ b.blacktext {
 	font-family:"Century Gothic";
 }
 
-div.cover {
-	position:absolute;
-	background:grey;
-	//border:solid 1px;
-	color:black;
-	width:100%;
-	height:40%;
+b.alignCenter
+{
+	text-align:center;
 }
 
 div.tab {
 	position:absolute;
-	top:40%;
-	background:grey;
+	top:31.2%;
+	background:black;
 	width:100%;
 	height:5%;
 }
@@ -82,14 +98,6 @@ div.tab {
 	color:black;
 	width:160px;
 	height:160px;
-}
-
-div.body {
-	position:absolute;
-	top:401px;
-	color:#9900CC;
-	width:1342px;
-	height:768px;
 }
 
 div.personal {
