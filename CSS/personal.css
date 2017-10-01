@@ -56,22 +56,9 @@ b.itext
 color:black;
 }
 
-div.icover
-{
-position:absolute;
-
-left:20%;
-background:grey;
-border:solid 1px;
-color:black;
-width:60%;
-height:40%;
-}
-
 div.itab
 {
 position:absolute;
-top:40%;
 left:20%;
 border:1px;
 border-right-style:solid;
@@ -82,17 +69,6 @@ width:60%;
 height:5%;
 }
 
-div.iselfie
-{
-position:absolute;
-top:31%;
-left:13%;
-background-image: url(../Images/selfie.jpg);
-border:solid 5px;
-color:black;
-width:160px;
-height:160px;
-}
 
 div.ibody
 {
