@@ -1,5 +1,5 @@
 div.whole {
-	position:absolute;
+	position:fixed;
 	background:;
 	top:0%;
 	left:0%;
@@ -29,7 +29,7 @@ div.home {
 	font-family:"Century Gothic";
 }
 
-div.content	{
+div.contentHolder {
 	top:25%;
 	left:10%;
 	position:absolute;
