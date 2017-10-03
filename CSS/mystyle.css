@@ -80,7 +80,7 @@ div.content2 {
 	position:absolute;
 	height:60%;
 	width:100%;
-	top:125%;
+	top:124.9%;
 	background:#1d1d1d;
 	color:black;
 }
@@ -120,6 +120,16 @@ div.tab {
 	background:black;
 	height:5%;
 	width:80%;
+}
+
+div.image1 {
+	position:absolute;
+	height:300px;
+	width:300px;
+
+	top:15.85%;
+	left:10%;
+
 }
 
 //div.selfie {
