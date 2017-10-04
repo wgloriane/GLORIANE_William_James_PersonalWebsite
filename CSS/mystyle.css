@@ -13,23 +13,21 @@ div.header {
 	position:fixed;
 	background:#595959;
 	width:100%;
-	height:5%;
+	height:36px;
 }
 
 div.home {
 	position:fixed;
-	height:5%;
-	width:10%;
-	top:1%;
-	right:15%;
+	width:auto;
+	top:8px;
+	right:10%;
 }
 
 div.menu {
 	position:fixed;
-	height:5%;
-	width:300px;
-	top:1%;
-	left:15%;
+	width:auto;
+	top:8px;
+	left:10%;
 }
 
 div.cover {
@@ -101,8 +99,7 @@ div.image1 {
 	position:absolute;
 	height:300px;
 	width:300px;
-
-	top:15.85%;
+	top:100px;
 	left:10%;
 
 }
