@@ -75,10 +75,10 @@ div.content3 {
 	color:black;
 }
 
-.hover:link {color:#595959;}
-.hover:visited {color:#595959;}
-.hover:hover {color:#595959;}
-.hover:active {color:#595959;}
+.hover:link {color:transparent;}
+.hover:visited {color:transparent;}
+.hover:hover {color:transparent;}
+.hover:active {color:transparent;}
 
 b.whiteText {
 	color:white;
