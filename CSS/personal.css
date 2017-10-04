@@ -35,9 +35,6 @@ div.contentHolder {
 	left:10%;
 	position:absolute;
 	background:;
-	border:0.5px;
-	border-color:black;
-	border-bottom-style:dotted;
 	height:1000px;
 	width:80%;
 	box-shadow: 0px 0px 20px #888888;
@@ -54,12 +51,24 @@ div.cover {
 div.content1 {
 	position:relative;
 	height:auto;
-	width:600px;
-	top:220px;
+	width:70%;
+	top:240px;
 	font-family:"Century Gothic";
 	font-size:18px;
 	text-align:center;
 	line-height:20px;
+	border-bottom-style: solid;
+    border-width:1px;
+}
+
+div.content2 {
+	position:relative;
+	height:auto;
+	width:70%;
+	top:440px;
+	font-family:"Century Gothic";
+	font-size:18px;
+	text-align:center;
 }
 
 .hover:link {color:transparent;}
@@ -75,17 +84,6 @@ b.blacktext {
 	color:black;
 	font-family:"Century Gothic";
 	text-align:center;
-}
-
-//div.selfie {
-	position:absolute;
-	top:31%;
-	left:13%;
-	background-image: url(../Images/selfie.jpg);
-	border:solid 5px;
-	color:black;
-	width:160px;
-	height:160px;
 }
 
 div.footer {
