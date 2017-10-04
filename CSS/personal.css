@@ -31,52 +31,35 @@ div.menu {
 }
 
 div.contentHolder {
-	top:25%;
+	top:150px;
 	left:10%;
 	position:absolute;
 	background:;
 	border:0.5px;
 	border-color:black;
 	border-bottom-style:dotted;
-	height:215%;
+	height:1000px;
 	width:80%;
 	box-shadow: 0px 0px 20px #888888;
 }
 
 div.cover {
-	position:absolute;
-	height:40%;
-	width:80%;
-	top:25%;
-	left:10%;
+	position:relative;
+	height:300px;
+	width:300px;
+	top:200px;
 	background:grey;
-	//border:solid 1px;
-	color:black;
-
 }
 
 div.content1 {
 	position:relative;
-	height:70%;
-	width:76%;
-	top:70%;
-	left:11%;
-}
-
-div.content2 {
-	position:relative;
-	height:70%;
-	width:76%;
-	top:35%;
-	left:11%;
-}
-
-div.content3 {
-	position:relative;
-	height:70%;
-	width:76%;
-	top:23%;
-	left:11%;
+	height:auto;
+	width:600px;
+	top:220px;
+	font-family:"Century Gothic";
+	font-size:18px;
+	text-align:center;
+	line-height:20px;
 }
 
 .hover:link {color:transparent;}
@@ -91,13 +74,8 @@ b.whiteText {
 b.blacktext {
 	color:black;
 	font-family:"Century Gothic";
-}
-
-b.alignCenter
-{
 	text-align:center;
 }
-
 
 //div.selfie {
 	position:absolute;
