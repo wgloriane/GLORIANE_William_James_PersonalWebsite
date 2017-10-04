@@ -50,7 +50,7 @@ div.cover {
 
 div.content1 {
 	position:relative;
-	height:auto;
+	height:170px;
 	width:70%;
 	top:240px;
 	font-family:"Century Gothic";
@@ -65,10 +65,10 @@ div.content2 {
 	position:relative;
 	height:auto;
 	width:70%;
-	top:440px;
+	top:270px;
 	font-family:"Century Gothic";
 	font-size:18px;
-	text-align:center;
+	text-align:left;
 }
 
 .hover:link {color:transparent;}
