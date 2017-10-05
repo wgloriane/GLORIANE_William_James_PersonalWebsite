@@ -83,8 +83,14 @@ b.whiteText {
 	color:white;
 	font-family:"Century Gothic";
 }
-b.blacktext {
-	color:black;
+
+b.blackText {
+	color:#1d1d1d;
+	font-family:"Century Gothic";
+}
+
+b.orangeText {
+	color:#d96f21;
 	font-family:"Century Gothic";
 }
 
@@ -114,6 +120,36 @@ div.imageRight {
 	width:300px;
 	top:100px;
 	right:10%;
+}
+
+div.textLeft {
+	position:absolute;
+	height:300px;
+	width:55%;
+	left:10%;
+	bottom:96px;
+	border-top-style:dotted;
+	border-bottom-style:dotted;
+	border-color:#1d1d1d;
+	font-family:"Century Gothic";
+	font-size:30px;
+	text-align:justify;
+	background:;
+}
+
+div.textRight {
+	position:absolute;
+	height:300px;
+	width:55%;
+	right:10%;
+	bottom:96px;
+	border-top-style:dotted;
+	border-bottom-style:dotted;
+	border-color:#1d1d1d;
+	font-family:"Century Gothic";
+	font-size:30px;
+	text-align:justify;
+	background:;
 }
 
 //div.selfie {
