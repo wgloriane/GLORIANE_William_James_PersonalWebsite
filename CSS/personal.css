@@ -19,14 +19,14 @@ div.header {
 div.home {
 	position:fixed;
 	width:auto;
-	top:8px;
+	top:6px;
 	right:10%;
 }
 
 div.menu {
 	position:fixed;
 	width:auto;
-	top:8px;
+	top:6px;
 	left:10%;
 }
 
