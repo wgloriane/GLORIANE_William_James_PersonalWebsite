@@ -151,14 +151,3 @@ div.textRight {
 	text-align:justify;
 	background:;
 }
-
-//div.selfie {
-	position:absolute;
-	top:31%;
-	left:13%;
-	background-image: url(../Images/selfie.jpg);
-	border:solid 5px;
-	color:black;
-	width:160px;
-	height:160px;
-}

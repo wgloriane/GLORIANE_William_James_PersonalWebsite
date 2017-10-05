@@ -40,7 +40,7 @@ div.contentHolder {
 	box-shadow: 0px 0px 20px #888888;
 }
 
-div.cover {
+div.id {
 	position:relative;
 	height:300px;
 	width:300px;
@@ -93,16 +93,4 @@ div.violetBackground {
 	width:100%;
 	background:#e690e7;
 	color:white;
-}
-
-
-div.footer {
-	position:fixed;
-	bottom:0px;
-	left:0px;
-	background:#595959;
-	color:grey;
-	text-align:center;
-	width:100%;
-	height:2.5%;
 }
